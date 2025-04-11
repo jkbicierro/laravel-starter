@@ -25,4 +25,4 @@ composer run dev
 ```
 
 ## references
-https://laravel.com/
+https://laravel.com/docs/12.x/installation
