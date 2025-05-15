@@ -1,12 +1,10 @@
-# laravel-starter
-a starter pack template for laravel
+# laravel-starter 
+a starter pack template for laravel 12.x
 
 ## prerequisites
 - [php (ver8.0^)](https://www.php.net/)
 - [composer (dependency manager for php)](https://getcomposer.org/)
-
-## starter pack template
-- [ ] authentication support
+- node.js
 
 ## getting started
 ### install dependencies
